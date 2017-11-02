@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HXYTestPublicCocoapods_Example' do
+  pod 'HXYTestPublicCocoapods', :path => '../'
+
+  target 'HXYTestPublicCocoapods_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
