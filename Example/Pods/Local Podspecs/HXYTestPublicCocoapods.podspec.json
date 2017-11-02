@@ -1,0 +1,22 @@
+{
+  "name": "HXYTestPublicCocoapods",
+  "version": "0.1.0",
+  "summary": "A short description of HXYTestPublicCocoapods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/houxingyu/HXYTestPublicCocoapods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "houxingyu": "houxingyu0415@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/houxingyu/HXYTestPublicCocoapods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HXYTestPublicCocoapods/Classes/**/*"
+}

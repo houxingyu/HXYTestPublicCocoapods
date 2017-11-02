@@ -1,0 +1,6 @@
+framework module HXYTestPublicCocoapods {
+  umbrella header "HXYTestPublicCocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}
